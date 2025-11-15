@@ -42,6 +42,9 @@ Sou **Desenvolvedor Back-end**, com foco em **Python e Inteligência Artificial*
 
 ---
 
+![Snake animation](https://github.com/fellypedylon/fellypedyloni/blob/output/github-contribution-grid-snake.svg)
+
+
 ## 📫 Me encontre aqui:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fellype-dylon-016061353/?locale=pt_BR)
