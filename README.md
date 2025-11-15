@@ -42,7 +42,7 @@ Sou **Desenvolvedor Back-end**, com foco em **Python e Inteligência Artificial*
 
 ---
 
-![Snake animation](https://github.com/fellypedylon/fellypedyloni/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/fellypedylon/fellypedylon/blob/output/github-contribution-grid-snake.svg)
 
 
 ## 📫 Me encontre aqui:
