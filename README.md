@@ -1,48 +1,50 @@
-# 🧑‍💻 Fellype Dylon — Back-end Developer
+## 👋 Olá! Eu sou o **Fellype Dylon**
 
-<img align="right" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="240" />
+<img align="right" height="200" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-Sou focado no desenvolvimento de *APIs, microsserviços e integrações*, utilizando boas práticas, testes automatizados e arquitetura limpa.
+Sou **Desenvolvedor Back-end**, apaixonado por criar soluções práticas usando **APIs, microsserviços e integrações**.
+
+✨ Sempre buscando aprender mais sobre:
+- Python & Java  
+- Arquitetura limpa  
+- Banco de dados SQL/NoSQL  
+- Testes automatizados (TDD, RSpec, Pytest)  
+- Docker e boas práticas de deploy  
 
 ---
 
-## 🔍 Skills
+## 🛠️ Tech Stack
 
-### 🚀 Back-end
+### 💻 Linguagens
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/>
 </p>
 
-### 📦 Banco de Dados
+### 🗄️ Banco de Dados
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/>
 </p>
 
-### 🧪 Testes
-- RSpec  
-- Pytest  
-- TDD  
-- Testes de integração  
-
-### ⚙️ DevOps & Ferramentas
+### 🧰 Ferramentas
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45"/>
 </p>
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 📊 GitHub Stats
 
-![Status](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&theme=dark&show_icons=true)
-![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=dark)
+![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=tokyonight)
 
 ---
 
-## 🌐 Redes
+## 📫 Me encontre aqui:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](SEU_LINKEDIN)  
-[![Email](https://img.shields.io/badge/Email-333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU_EMAIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](SEU_LINKEDIN)
+[![Portfólio](https://img.shields.io/badge/Portfólio-000?style=for-the-badge&logo=react&logoColor=white)](SEU_PORTFOLIO)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU_EMAIL)
