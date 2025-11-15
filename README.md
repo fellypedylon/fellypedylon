@@ -1,78 +1,48 @@
-# Olá! Eu sou [Fellype Dylon Souza Arrais] 👋
+# 🧑‍💻 Fellype Dylon — Back-end Developer
 
-### Desenvolvedor(a) [Seu Foco Principal - Ex: Front-end, Back-end, Full-stack] em Busca de Conhecimento e Desafios!
+<img align="right" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="240" />
 
-[Aqui você pode adicionar uma imagem legal, um GIF ou um badge animado que te represente. Ex: Um GIF de código ou um banner de boas-vindas.]
-
----
-
-## 🧐 Sobre Mim
-
-Sou [Seu Nome/Apelido] e minha jornada no mundo da tecnologia começou com [Conte brevemente o que te atraiu para a área, ex: a curiosidade em criar websites, resolver problemas lógicos].
-
-Atualmente, estou focado(a) em [Seu objetivo principal, ex: me aprofundar em React/Next.js, construir APIs robustas com Python]. Acredito que a melhor forma de aprender é colocando a mão na massa, por isso, estou sempre buscando novos projetos e desafios.
-
-* **Minha paixão:** [Ex: Criar interfaces de usuário intuitivas / Otimizar performance de back-end / A magia do Machine Learning].
-* **Eu adoro:** [Ex: Jogar jogos indie, ler sobre ficção científica, fazer trilhas nos finais de semana].
-* **Busco oportunidades para:** [Ex: Contribuir em projetos Open Source, participar de hackathons e fazer networking].
+Sou focado no desenvolvimento de *APIs, microsserviços e integrações*, utilizando boas práticas, testes automatizados e arquitetura limpa.
 
 ---
 
-## 🚀 Minhas Habilidades (Tech Stack)
+## 🔍 Skills
 
-Aqui estão as principais tecnologias e ferramentas que utilizo nos meus projetos.
+### 🚀 Back-end
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45"/>
+</p>
 
-### 🛠️ Linguagens e Frameworks
+### 📦 Banco de Dados
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45"/>
+</p>
 
-| Categoria | Tecnologias |
-| :---: | :--- |
-| **Frontend** | HTML5, CSS3, JavaScript (ES6+), [Adicione seu framework, ex: React, Vue.js, Angular] |
-| **Backend** | [Adicione sua linguagem, ex: Python, Node.js, Java], [Adicione seu framework, ex: Django, Express, Spring Boot] |
-| **Banco de Dados** | [Ex: PostgreSQL, MySQL, MongoDB, SQLite] |
-| **Estilização** | [Ex: Sass/SCSS, Styled-Components, Tailwind CSS, Bootstrap] |
+### 🧪 Testes
+- RSpec  
+- Pytest  
+- TDD  
+- Testes de integração  
 
-### ⚙️ Ferramentas e Outros
-
-| Ferramenta | Utilização |
-| :---: | :--- |
-| **Controle de Versão** | Git, GitHub |
-| **Ambiente de Desenvolvimento** | VS Code, Insomnia/Postman |
-| **DevOps/Containers** | [Ex: Docker, CI/CD Básico] |
-| **Cloud Computing** | [Ex: AWS (conceitos), Vercel, Netlify] |
-
----
-
-## 📚 Atualmente Estudando
-
-O aprendizado é contínuo! No momento, estou imerso(a) nos seguintes tópicos:
-
-* **[Tecnologia/Conceito 1]:** [Ex: Dominando TypeScript para projetos mais escaláveis.]
-* **[Tecnologia/Conceito 2]:** [Ex: Arquitetura de Microsserviços com [Linguagem/Ferramenta].]
-* **[Tecnologia/Conceito 3]:** [Ex: Design Patterns e Boas Práticas de Código Limpo.]
+### ⚙️ DevOps & Ferramentas
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45"/>
+</p>
 
 ---
 
-## 📬 Conecte-se Comigo!
+## 📊 Estatísticas do GitHub
 
-Estou sempre aberto(a) a conversas sobre tecnologia, projetos e novas oportunidades. Sinta-se à vontade para entrar em contato!
-
-| Plataforma | Link |
-| :---: | :--- |
-| **LinkedIn** | [Link do seu Perfil do LinkedIn] |
-| **E-mail** | [Seu Email de Contato] |
-| **Portfólio/Website** | [Link para seu Portfólio (se tiver)] |
-| **Discord** | [Seu Nome de Usuário e Tag] |
-
-<br>
+![Status](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&theme=dark&show_icons=true)
+![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=dark)
 
 ---
 
-[Opcional: Adicione estatísticas do GitHub para deixar o perfil mais visual!]
+## 🌐 Redes
 
-[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=vue)](https://github.com/SEU_USERNAME)
-
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=vue)](https://github.com/SEU_USERNAME)
-
-<br>
-
-⭐️ *Obrigado pela visita! Ficarei feliz em colaborar em algum projeto com você!*
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](SEU_LINKEDIN)  
+[![Email](https://img.shields.io/badge/Email-333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU_EMAIL)
