@@ -13,7 +13,7 @@
  
 ## 👨‍💻 Sobre mim
  
-🎓 Estudante de tecnologia focado em **desenvolvimento de software, backend e dados**.
+🎓 Estudante de tecnologia focado em **desenvolvimento de software, backend**.
  
 Tenho grande interesse em construir sistemas eficientes e resolver problemas usando programação, dados e inteligência artificial.
  
